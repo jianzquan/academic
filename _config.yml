@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg" # "profile.png"
+  avatar           : "avatar.png" # "profile.png"
   name             : "Zhongquan Jian"
-  pronouns         : "he/his" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "NLPer & CVer"
   location         : "Fuzhou, China"
   employer         : "Minjiang University"
